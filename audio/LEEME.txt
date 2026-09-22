@@ -1,0 +1,2 @@
+Colocar aqui los MP3 de narracion, un archivo por lamina:
+Audio01.mp3 ... Audio16.mp3 (nombres exactos, ver README.md)
